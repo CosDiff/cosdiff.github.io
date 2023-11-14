@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+layout: default
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+title: "ProDiff: Progressive Fast Diffusion Model for High-Quality Text-to-Speech"
+
