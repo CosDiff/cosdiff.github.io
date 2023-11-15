@@ -112,10 +112,9 @@ a {
 }
 
 .page-header {
-  background-image: url('../images/1.jpg');
   color: black;
   text-align: center;
-
+  background-image: url('../images/1.jpg');
   @include large {
     padding: 5rem 6rem;
   }
