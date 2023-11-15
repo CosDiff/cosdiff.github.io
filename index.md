@@ -143,11 +143,11 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/FastSpeech 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GanSpeech/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GanSpeech/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+				<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-tacotron2/CN/Intra_tacotron2_CN_009942.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-fs2/CN/Intra_fs2_CN_009942.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-grandtts/CN/Intra_gradtts_CN_009942.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-cosdiff/CN/Intra_cosdiff_CN_009942.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -167,11 +167,11 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/FastSpeech 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GanSpeech/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GanSpeech/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0203.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-tacotron2/EN/Intra_tacotron2_EN_LJ050-0203.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-fs2/EN/Intra_fs2_EN_LJ050-0203.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-grandtts/EN/Intra_gradtts_EN_LJ050-0203.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-cosdiff/EN/Intra_cosdiff_EN_LJ050-0203.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -189,11 +189,11 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/FastSpeech 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GanSpeech/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GanSpeech/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0222.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-tacotron2/EN/Intra_tacotron2_EN_LJ050-0222.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-fs2/EN/Intra_fs2_EN_LJ050-0222.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-grandtts/EN/Intra_gradtts_EN_LJ050-0222.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Intra/Intra-cosdiff/EN/Intra_cosdiff_EN_LJ050-0222.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -212,8 +212,8 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0203.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Cross/EN-CN/Cross_cosdiff_EN_009801.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -228,8 +228,8 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0203.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Cross/EN-CN/Cross_cosdiff_EN_009803.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -246,8 +246,8 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Cross/CN-EN/Cross_cosdiff_CN_LJ050-0270.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -262,8 +262,8 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/Cross/CN-EN/Cross_cosdiff_CN_LJ050-0187.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -275,14 +275,14 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 <table>
 	<thead>
 		<tr>
-                                               <th style="text-align: center">English speaker</th>
+                                               <th style="text-align: center">Chinese speaker</th>
 			<th style="text-align: center">CosDiff Synthesized Text</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/CN/code-swithing_cosdiff_CN_1.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -291,14 +291,14 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 <table>
 	<thead>
 		<tr>
-                                               <th style="text-align: center">English speaker</th>
+                                               <th style="text-align: center">Chinese speaker</th>
 			<th style="text-align: center">CosDiff Synthesized Text</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/CN/code-swithing_cosdiff_CN_3.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -315,8 +315,8 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0203.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/EN/code-swithing_cosdiff_EN_4.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -331,8 +331,8 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0203.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/EN/code-swithing_cosdiff_EN_5.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -346,16 +346,16 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 <table>
 	<thead>
 		<tr>
-                                               <th style="text-align: center">English speaker</th>
-			<th style="text-align: center">Teahcer Synthesized Text</th>
+                                               <th style="text-align: center">Chinese speaker</th>
+			<th style="text-align: center">Teahcer(T=4) Synthesized Text</th>
 			<th style="text-align: center">CosDiff Synthesized Text</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing_teacher/CN/code-swithing_cosdifteacher_CN_9.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/CN/code-swithing_cosdiff_CN_9.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -364,16 +364,16 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 <table>
 	<thead>
 		<tr>
-                                               <th style="text-align: center">English speaker</th>
-			<th style="text-align: center">Teahcer Synthesized Text</th>
+                                               <th style="text-align: center">Chinese speaker</th>
+			<th style="text-align: center">Teahcer(T=4) Synthesized Text</th>
 			<th style="text-align: center">CosDiff Synthesized Text</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing_teacher/CN/code-swithing_cosdifteacher_CN_8.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/CN/code-swithing_cosdiff_CN_8.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -392,9 +392,9 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0267.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing_teacher/EN/code-swithing_cosdifteacher_EN_9.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/EN/code-swithing_cosdiff_EN_9.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -410,9 +410,9 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/GT/[000000][LJ001-0069][G].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/table2/LJSpeech/Tacotron 2/[000000][LJ001-0069][P].wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0267.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing_teacher/EN/code-swithing_cosdifteacher_EN_8.wav.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/TTS/code-swithing/EN/code-swithing_cosdiff_EN_8.wav.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
