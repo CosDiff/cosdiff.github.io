@@ -115,7 +115,7 @@ a {
   color: $header-heading-color;
   text-align: center;
  
-  background-image: url('images/1.png');
+  background-image: url('../images/1.png');
 
   @include large {
     padding: 5rem 6rem;
