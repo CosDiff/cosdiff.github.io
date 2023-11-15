@@ -24,7 +24,9 @@
 * {
   box-sizing: border-box;
 }
-
+ruby {
+  text-align: left; /* 使得ruby标签内的文字左对齐 */
+}
 body {
   padding: 0;
   margin: 0;
@@ -319,7 +321,6 @@ a {
 
     th,
     td {
-      text-align: left;
       padding: 0.5rem;
       border: 1px solid $table-border-color;
     }
