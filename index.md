@@ -9,7 +9,7 @@
 
 # Abstract
 Although existing text-to-speech (TTS) synthesis models can generate high-quality speech, their performance is typically influenced by the distribution of the training data. When processing tasks that involve complex data distributions, such as code-switching TTS, these models might generate speech that sounds unnatural or has low speaker similarity. In this paper, we propose CosDiff, a novel approach for code-switched TTS enabled by denoising diffusion implicit model (DDIM) and self-supervising soft units. We convert a single-speaker monolingual dataset into a single-speaker bilingual dataset to learn the complex distributional features of the bilingual dataset by simulating the stochastic diffusion process, thus successfully achieving a code-switched TTS effect close to natural speech. In addition, we employ strategies of directly predicting the clean data $x_0$ and progressive diffusion distillation, further accelerating the model's sampling process. Experimental results demonstrate the efficacy of our method in terms of generation quality, sampling speed, and model distillation.
-
+<img src="images/1.png">
 # Audio quality
 ## Cross-lingual conversion comparison
 #### Source speaker: Mandarin female; Target speaker: English female
