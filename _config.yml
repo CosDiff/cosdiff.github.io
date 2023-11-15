@@ -1,7 +1,0 @@
-theme: jekyll-theme-cayman
-layout: default
-markdown: kramdown
-kramdown:
-  toc_levels: 1..2
-title: "CosDiff: END-TO-END CODE-SWITCHING TTS WITH DIFFUSION MODEL AND SELF-SUPERVISED SOFT UNITS"
-
