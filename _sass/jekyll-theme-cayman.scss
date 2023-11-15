@@ -24,6 +24,11 @@
 * {
   box-sizing: border-box;
 }
+ruby {
+  display: inline-block;
+  line-height: normal;
+  text-align: left;
+}
 
 body {
   padding: 0;
@@ -317,11 +322,13 @@ a {
       font-weight: bold;
     }
 
-    th,
-    td {
-      padding: 0.5rem 1rem;
-      border: 1px solid $table-border-color;
-    }
+   th, td {
+  padding: 8px; /* 调整为期望的填充 */
+  text-align: left; /* 如果你希望对齐到左边 */
+  vertical-align: top; /* 对齐到顶部以防止垂直间隔 */
+  white-space: normal; /* 确保文本正常换行 */
+}
+
   }
 
   dl {
