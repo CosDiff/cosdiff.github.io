@@ -37,7 +37,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $body-text-;
+  color: $body-text-color;
 }
 
 #skip-to-content {
@@ -53,8 +53,8 @@ body {
     left: 10px;
     height: auto;
     width: auto;
-    background: invert($body-link-);
-    outline: thick solid invert($body-link-);
+    background: invert($body-link-color);
+    outline: thick solid invert($body-link-color);
   }
 }
 
@@ -112,10 +112,11 @@ a {
 }
 
 .page-header {
-  background-image: url('../images/1.jpg');
   color: $header-heading-color;
   text-align: center;
-  
+  background-color: $header-bg-color;
+  background-image: url('images/1.jpg');
+
   @include large {
     padding: 5rem 6rem;
   }
