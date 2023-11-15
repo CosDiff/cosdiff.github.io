@@ -109,7 +109,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
- background-image: url('../_sass/1.jpg');
+ background-image: url('1.jpg');
 
   @include large {
     padding: 5rem 6rem;
@@ -160,7 +160,7 @@ a {
 }
 
 .main-content {
-  word-wrap: break-word;
+  word-wrap: normal;
 
   :first-child {
     margin-top: 0;
@@ -311,7 +311,6 @@ a {
     width: 100%;
     overflow: auto;
     word-break: normal;
-    word-break: keep-all; // For Firefox to horizontally scroll wider tables.
     -webkit-overflow-scrolling: touch;
 
     th {
