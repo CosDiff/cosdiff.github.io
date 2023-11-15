@@ -160,8 +160,8 @@ a {
 }
 
 .main-content {
-  word-wrap: normal;
-  text-align: left !important;
+  text-align: center; /* 添加此行以实现水平居中 */
+  word-wrap: break-word; /* 修改此行以允许长单词换行 */
   :first-child {
     margin-top: 0;
   }
