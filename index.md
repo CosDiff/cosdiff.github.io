@@ -34,7 +34,7 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 </table>
 
 
-<ruby>Reference/Target Text: 传闻越来越多，后来连老汉儿自己都怕了</ruby>
+<ruby>Reference/Target Text: 刚认识就要妹子皂片？再聊十块钱的吧</ruby>
 <table>
 	<thead>
 		<tr>
@@ -46,10 +46,10 @@ Although existing text-to-speech (TTS) synthesis models can generate high-qualit
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009942.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_cn/009811.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/GTWAV/GTWAV_en/LJ050-0130.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/Vc/EN-CN/soft-vc/softvc_en_009942.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/Vc/EN-CN/cosdiff/cosdiff_en_009942.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/Vc/EN-CN/soft-vc/softvc_en_009811.wav" type="audio/wav"></audio></td>
+            <td style="text-align: center"><audio controls style="width: 150px;"><source src="zh/Vc/EN-CN/cosdiff/cosdiff_en_009811.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
